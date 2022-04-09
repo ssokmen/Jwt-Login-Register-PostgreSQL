@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82df0f87-5913-4222-becd-89a86a28c648": {
+      "ProjectGuid": "82df0f87-5913-4222-becd-89a86a28c648",
+      "DisplayName": "JwtAPI",
+      "ColorIndex": 0
+    },
+    "27a5186a-3da2-48f3-a713-daf1e4b3fab7": {
+      "ProjectGuid": "27a5186a-3da2-48f3-a713-daf1e4b3fab7",
+      "DisplayName": "Jwt.Data",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

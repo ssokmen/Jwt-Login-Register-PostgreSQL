@@ -1,0 +1,14 @@
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\bin\Debug\net6.0\Jwt.Data.deps.json
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\bin\Debug\net6.0\Jwt.Data.runtimeconfig.json
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\bin\Debug\net6.0\Jwt.Data.dll
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\bin\Debug\net6.0\ref\Jwt.Data.dll
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\bin\Debug\net6.0\Jwt.Data.pdb
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\Jwt.Data.csproj.AssemblyReference.cache
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\Jwt.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\Jwt.Data.AssemblyInfoInputs.cache
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\Jwt.Data.AssemblyInfo.cs
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\Jwt.Data.csproj.CoreCompileInputs.cache
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\Jwt.Data.dll
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\ref\Jwt.Data.dll
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\Jwt.Data.pdb
+C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\Jwt.Data.genruntimeconfig.cache
