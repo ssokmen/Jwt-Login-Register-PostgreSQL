@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ssukman\\source\\repos\\JwtManager\\JwtAPI\\JwtAPI.csproj": {}
+    "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\JwtAPI\\JwtAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\Jwt.Data.csproj": {
+    "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\Jwt.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\Jwt.Data.csproj",
+        "projectUniqueName": "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\Jwt.Data.csproj",
         "projectName": "Jwt.Data",
-        "projectPath": "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\Jwt.Data.csproj",
+        "projectPath": "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\Jwt.Data.csproj",
         "packagesPath": "C:\\Users\\ssukman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\obj\\",
+        "outputPath": "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,18 +74,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ssukman\\source\\repos\\JwtManager\\JwtAPI\\JwtAPI.csproj": {
+    "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\JwtAPI\\JwtAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssukman\\source\\repos\\JwtManager\\JwtAPI\\JwtAPI.csproj",
+        "projectUniqueName": "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\JwtAPI\\JwtAPI.csproj",
         "projectName": "JwtAPI",
-        "projectPath": "C:\\Users\\ssukman\\source\\repos\\JwtManager\\JwtAPI\\JwtAPI.csproj",
+        "projectPath": "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\JwtAPI\\JwtAPI.csproj",
         "packagesPath": "C:\\Users\\ssukman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ssukman\\source\\repos\\JwtManager\\JwtAPI\\obj\\",
+        "outputPath": "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\JwtAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,8 +106,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\Jwt.Data.csproj": {
-                "projectPath": "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\Jwt.Data.csproj"
+              "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\Jwt.Data.csproj": {
+                "projectPath": "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\Jwt.Data.csproj"
               }
             }
           }
@@ -132,6 +132,10 @@
               "target": "Package",
               "version": "[6.0.3, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.17.0, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[6.0.3, )"
@@ -139,6 +143,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.17.0, )"
             }
           },
           "imports": [
@@ -159,7 +167,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

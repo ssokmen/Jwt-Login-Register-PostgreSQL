@@ -8,10 +8,14 @@ namespace Jwt.Data.Entities
 {
     public  class User : BaseEntity
     {
-        public string Name { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
+        public User()
+        {
+        }
 
+        public string Name { get; set; } = String.Empty;
+        public string Email { get; set; }
+        public byte[] PasswordHash { get; set; }
+        public byte[] PasswordSalt { get; set; }
         public string UserName { get; set; }
 
     }

@@ -12,3 +12,17 @@ C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\Jwt.Data.dll
 C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\ref\Jwt.Data.dll
 C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\Jwt.Data.pdb
 C:\Users\ssukman\source\repos\JwtManager\Jwt.Data\obj\Debug\net6.0\Jwt.Data.genruntimeconfig.cache
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\bin\Debug\net6.0\Jwt.Data.deps.json
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\bin\Debug\net6.0\Jwt.Data.runtimeconfig.json
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\bin\Debug\net6.0\Jwt.Data.dll
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\bin\Debug\net6.0\ref\Jwt.Data.dll
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\bin\Debug\net6.0\Jwt.Data.pdb
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\obj\Debug\net6.0\Jwt.Data.csproj.AssemblyReference.cache
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\obj\Debug\net6.0\Jwt.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\obj\Debug\net6.0\Jwt.Data.AssemblyInfoInputs.cache
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\obj\Debug\net6.0\Jwt.Data.AssemblyInfo.cs
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\obj\Debug\net6.0\Jwt.Data.csproj.CoreCompileInputs.cache
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\obj\Debug\net6.0\Jwt.Data.dll
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\obj\Debug\net6.0\ref\Jwt.Data.dll
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\obj\Debug\net6.0\Jwt.Data.pdb
+D:\mySources\Jwt-Login-Register-PostgreSQL\Jwt.Data\obj\Debug\net6.0\Jwt.Data.genruntimeconfig.cache

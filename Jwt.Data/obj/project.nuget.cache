@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JqxEzLFp1dUcqKPsrwvqCWKzKgC0z6/BTkf4R2ItYwSiI+2r6q77rpsDWFpMrNRUPJheT0h30pnxeEhytGcFdg==",
+  "dgSpecHash": "+A03v/gSIvE3hrSqDxn0iwFHV3kCZzDDWLTuy4PpZ9cmmvUpfwPsk+zfMNz0bu4UoxJ02WaRB/MoclG18i8ulw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\Jwt.Data.csproj",
+  "projectFilePath": "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\Jwt.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ssukman\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ssukman\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",

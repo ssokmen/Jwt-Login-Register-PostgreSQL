@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\Jwt.Data.csproj": {}
+    "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\Jwt.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\Jwt.Data.csproj": {
+    "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\Jwt.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\Jwt.Data.csproj",
+        "projectUniqueName": "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\Jwt.Data.csproj",
         "projectName": "Jwt.Data",
-        "projectPath": "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\Jwt.Data.csproj",
+        "projectPath": "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\Jwt.Data.csproj",
         "packagesPath": "C:\\Users\\ssukman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ssukman\\source\\repos\\JwtManager\\Jwt.Data\\obj\\",
+        "outputPath": "D:\\mySources\\Jwt-Login-Register-PostgreSQL\\Jwt.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
